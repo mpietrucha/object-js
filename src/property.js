@@ -1,1 +1,1 @@
-export { get as useProperty, set as createProperty } from 'lodash-es'
+export { set as createProperty, get as useProperty } from 'lodash-es'

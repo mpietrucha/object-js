@@ -1,2 +1,2 @@
-export { useProperty, createProperty } from '@/property'
-export { is, not, is as isObject, not as notObject } from '@/is'
+export { is, is as isObject, not, not as notObject } from '@/is'
+export { createProperty, useProperty } from '@/property'

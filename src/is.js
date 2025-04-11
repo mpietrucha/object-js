@@ -1,5 +1,5 @@
-import { isObject } from 'lodash-es'
 import { useConfirm, useNegate } from '@mpietrucha/function'
+import { isObject } from 'lodash-es'
 
 export const is = useConfirm(isObject)
 
